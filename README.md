@@ -23,7 +23,7 @@ Mapa conceptual (Herramientas utilizada)
 
 Glosario (Asamblea, Biodiversidad, Derechos humanos, Gobernanza, Kioto, métrica)
 
-[referencias](referencias.md)
+[Referencias](referencias.md)
 
 Autores
 
